@@ -104,5 +104,5 @@ To run my app, just run `python app.py` with the requirements needed.
 
 
 
-## Personal datasets contain faces are not avalaible, adapted with yours. 
+## Personal datasets contain faces are not avalaible, adapt with yours. 
 
